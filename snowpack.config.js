@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: 'dom-manipulation',
+    baseUrl: 'https://vhugobarnes.github.io/dom-manipulation/',
   },
 }
